@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -22,8 +23,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-
 - 📫 How to reach me **minl741@naver.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,3 +43,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+
+![jminkkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jminkkk&theme=midnight-purple&show_icons=true)
+
+[![Solved.ac minl741](http://mazassumnida.wtf/api/v2/generate_badge?boj=minl741)](https://solved.ac/minl741)
