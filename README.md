@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 <!--
 **jminkkk/jminkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminkkk&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![jminkkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jminkkk&theme=midnight-purple&show_icons=true)
 
