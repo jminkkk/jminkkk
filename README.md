@@ -1,51 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+<h2>🔥 Backend developer</h2>
+안녕하세요. 백엔드 개발자를 꿈꾸는 김지민입니다 😆
 
-<!--
-**jminkkk/jminkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+백엔드에 흥미를 느껴 자바와 스프링, 웹에 대해 학습한지 약 1년 반정도 됐습니다!
 
-Here are some ideas to get you started:
++ 많이 아는 것보다는 정확하게 이해하는 것이 중요하다고 생각하며 공부하고 있습니다:)
 
+## Stack
+<div>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Moly
+꾸준히 성장하는 저의 모습이 궁금하시다면 놀러오세요 🤗
+ 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://mincanit.tistory.com/)
 
-<h1 align="center">Hi 👋, I'm Moly</h1>
-<h3 align="center">A passionate backend developer</h3>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jminkkk&theme=dark)
 
-- 🔭 I’m currently working on [gikhub](https://github.com/JNU-econovation/gikhub.git)
-
-- 🌱 I’m currently learning  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-
-- 📫 How to reach me **minl741@naver.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminkkk&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-![jminkkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jminkkk&theme=midnight-purple&show_icons=true)
-
-[![Solved.ac minl741](http://mazassumnida.wtf/api/v2/generate_badge?boj=minl741)](https://solved.ac/minl741)
